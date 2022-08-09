@@ -1,0 +1,1 @@
+This folder has the source codes for the executable files in the other folder. These have pure and unchanged code that will bring out that same exact output when compiled. All files use only the standard library functions so you should be fine to use them in whichever compiler you so wish.
